@@ -14,3 +14,5 @@ class Genre
   end
   
 end
+
+pop = Genre.new("pop")
