@@ -14,3 +14,5 @@ class Patient
   end
   
 end
+
+ferris = Patient.new("Ferris Bueller")
