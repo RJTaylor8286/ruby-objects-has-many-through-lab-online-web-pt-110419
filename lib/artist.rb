@@ -14,3 +14,5 @@ class Artist
   end
   
 end
+
+madonna = Artist.new("Madonna")
